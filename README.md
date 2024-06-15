@@ -1,2 +1,2 @@
 # blog
-blog test
+this will link to your homepage
