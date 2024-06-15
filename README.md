@@ -1,2 +1,2 @@
 # blog
-this will link to your homepage
+this will link to your branch
